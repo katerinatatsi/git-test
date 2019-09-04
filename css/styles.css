@@ -1,0 +1,21 @@
+body {  
+color: blue; 
+font-family : arial;
+margin:0px;
+}
+
+div { 
+    background-color: aquamarine;
+border: solid 10px brown
+}
+.second{ 
+    background-color: blueviolet;
+
+}
+#secondd {
+    font-size: 33px;
+}
+img{
+    width: 300px;
+    border-radius: 50px;
+}
